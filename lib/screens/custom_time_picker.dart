@@ -96,7 +96,7 @@ class _CustomTimePickerState extends State<CustomTimePicker> {
                 children: [
                   _buildBottomButton(Icons.music_note, 'SOUND\nWAKEUP'),
                   _buildBottomButton(Icons.notifications, 'SNOOZE\nEVERY 10 MIN'),
-                  _buildBottomButton(Icons.music_note, 'REPEAT\nNO'),
+                  _buildBottomButton(Icons.repeat, 'REPEAT\nNO'),
                 ],
               ),
             ),
